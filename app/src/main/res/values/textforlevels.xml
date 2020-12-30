@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lvl1text0">Zero</string>
+    <string name="lvl1text1">Jeden</string>
+    <string name="lvl1text2">Dwa</string>
+    <string name="lvl1text3">Trzy</string>
+    <string name="lvl1text4">Cztery</string>
+    <string name="lvl1text5">Pięć</string>
+    <string name="lvl1text6">Sześć</string>
+    <string name="lvl1text7">Siedem</string>
+    <string name="lvl1text8">Osiem</string>
+    <string name="lvl1text9">Dziewięć</string>
+
+    <string name="lvl2text1">I</string>
+    <string name="lvl2text2">II</string>
+    <string name="lvl2text3">II</string>
+    <string name="lvl2text4">III</string>
+    <string name="lvl2text5">IV</string>
+    <string name="lvl2text6">V</string>
+    <string name="lvl2text7">VI</string>
+    <string name="lvl2text8">VII</string>
+    <string name="lvl2text9">IX</string>
+    <string name="lvl2text10">X</string>
+
+    <string name="lvl3text1">Królik</string>
+    <string name="lvl3text2">Hipopotam</string>
+    <string name="lvl3text3">Pies</string>
+    <string name="lvl3text4">Leniwiec</string>
+    <string name="lvl3text5">Lwica</string>
+    <string name="lvl3text6">Prymat</string>
+    <string name="lvl3text7">Małpa</string>
+    <string name="lvl3text8">Lemur</string>
+    <string name="lvl3text9">Szympans</string>
+    <string name="lvl3text10">Niedźwiedź polarny</string>
+    <string name="lvl3text11">Koń</string>
+    <string name="lvl3text12">Szop pracz</string>
+    <string name="lvl3text13">Koza</string>
+    <string name="lvl3text14">Lis</string>
+    <string name="lvl3text15">Kot</string>
+    <string name="lvl3text16">Świnia</string>
+    <string name="lvl3text17">Jeż</string>
+    <string name="lvl3text18">Lew</string>
+    <string name="lvl3text19">Fretka</string>
+    <string name="lvl3text20">Krowa</string>
+    <string name="lvl3text21">Niedźwiedź malajski</string>
+
+    <string name="lvl4texts1">Ciasto</string>
+    <string name="lvl4text2">Kotwica</string>
+    <string name="lvl4text3">Chipsy</string>
+    <string name="lvl4text4">Cegła </string>
+    <string name="lvl4text5">Lody</string>
+    <string name="lvl4text6">Piła</string>
+    <string name="lvl4text7">Kiwi</string>
+    <string name="lvl4text8">Apteczka</string>
+    <string name="lvl4text9">Ciasto</string>
+    <string name="lvl4text10">Hamak</string>
+    <string name="lvl4text11">Orzechy</string>
+    <string name="lvl4text12">Kapelusz</string>
+    <string name="lvl4text13">Ananas</string>
+    <string name="lvl4text14">Pułapka</string>
+    <string name="lvl4text15">Śliwka</string>
+    <string name="lvl4text16">Samochód</string>
+    <string name="lvl4text17">Makarony</string>
+    <string name="lvl4text18">Wiązanie</string>
+    <string name="lvl4text19">Ziarna</string>
+    <string name="lvl4text20">Portfel</string>
+
+</resources>

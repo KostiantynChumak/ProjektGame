@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="levelone">Wybierz większą liczbę. Pytania można powtarzać, dopóki nie zdobędziesz 20 punktów. </string>
+    <string name="leveloneEnd">"Gratulacje, zaliczony poziom!\n
+        Czy wiesz, że liczba 7 jest uważana za najszczęśliwszą liczbę.
+        Jest 7 dni w tygodniu, 7 kontynentów, 7 kolorów tęczy, 7 nut, 7 dni Tworzenia i wiele więcej.
+        Liczba 7 jest najczęściej ulubioną liczbą ludzi na całym świecie."</string>
+    <string name="leveltwo">Wybierz większą cyfrę rzymską. Pytania można powtarzać, dopóki nie zdobędziesz 20 punktów. </string>
+    <string name="leveltwoEnd">"Gratulacje, zaliczony poziom!\n
+        Czy wiesz, że w cyfrach rzymskich nie ma zera?"</string>
+    <string name="levelthree">Które zwierzę bardziej pokazuje język?\nPytania można powtarzać, dopóki nie zdobędziesz 20 punktów.</string>
+    <string name="levelthreeEnd">Gratulacje, zaliczony poziom\n
+        Czy wiesz? Że dzięcioł, uderzając dziobem w drzewo, wciąga język i owija go wokół swojego mogza, aby je chronić</string>
+    <string name="levelfour">Wybierz coś jadalnego\nPytania można powtarzać, dopóki nie zdobędziesz 20 punktów.</string>
+    <string name="levelfourEnd">Gratulacje, ukończyłeś poziom!\n
+        Wiele krokodyli połyka kamienie. Ale nie dlatego, że są dla nich jadalne. Kamienie pomagają im szybciej zanurzyć się w wodzie i pozostać na dnie.</string>
+
+</resources>

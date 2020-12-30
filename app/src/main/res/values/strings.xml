@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ProjektGame</string>
+    <string name="start">Początek</string>
+    <string name="back">Wróć</string>
+    <string name="level">Poziom:</string>
+    <string name="level1">Poziom 1</string>
+    <string name="level2">Poziom 2</string>
+    <string name="level3">Poziom 3</string>
+    <string name="level4">Poziom 4</string>
+
+    <string name="textcontinue">Kontyntynuj</string>
+
+
+</resources>
