@@ -40,9 +40,13 @@ Na czwartym poziomie musisz wybrać jadalny.
 
 
 Poprawna odpowiedź
+
+
 ![levelfour](https://cdn1.savepice.ru/uploads/2021/1/12/8edc4e0b9859fefcc5ffc17aee4b25d4-full.png)
 
 
 Niepoprawna odpowiedź
+
+
 ![levelfour](https://cdn1.savepice.ru/uploads/2021/1/12/fc02cae3d1bafa956565b04f930c1fbd-full.png)
 
