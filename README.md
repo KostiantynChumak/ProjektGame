@@ -14,7 +14,7 @@ Tematy takie jak:
 - które zwierzę ma dłuższy język
 
 Gra napisana w języku JAVA na Androis Studio.
-https://user-images.githubusercontent.com/60564197/119229144-31464080-bb1f-11eb-9b6f-568d364c16bb.png
+![javagame2](https://user-images.githubusercontent.com/60564197/119229145-34413100-bb1f-11eb-8770-fd89df8dd844.png)
 Do wyboru jest trzydzieści poziomów, ale tylko cztery z nich są dostępne.
 
 https://user-images.githubusercontent.com/60564197/119229145-34413100-bb1f-11eb-8770-fd89df8dd844.png
