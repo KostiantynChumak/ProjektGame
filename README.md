@@ -19,34 +19,32 @@ Do wyboru jest trzydzieści poziomów, ale tylko cztery z nich są dostępne.
 ![javagame2](https://user-images.githubusercontent.com/60564197/119229145-34413100-bb1f-11eb-8770-fd89df8dd844.png)
 
 Prawidłowy przycisk powrotu i wyjścia.
+![Screenshot_1](https://user-images.githubusercontent.com/60564197/119268494-f49c4700-bbfb-11eb-96a1-d8aba36e8413.png)
+
 
 Na pierwszym poziomie gry musisz wybrać wyższą liczbę, jeśli gracz odpowie poprawnie, to zdobędzie jeden punkt, co widać na pasku postępu. Jeśli gracz się pomyli, traci dwa punkty. Aby przejść na następny poziom, musisz zdobyć dwadzieścia punktów.
 
-https://user-images.githubusercontent.com/60564197/119229146-34d9c780-bb1f-11eb-9742-28471043dad0.png
-
-https://user-images.githubusercontent.com/60564197/119229148-35725e00-bb1f-11eb-9cad-251afdb75154.png
+![javagame4](https://user-images.githubusercontent.com/60564197/119229148-35725e00-bb1f-11eb-9cad-251afdb75154.png)
 
 Na drugim poziomie musisz wybrać dużą cyfrę rzymską.
-https://user-images.githubusercontent.com/60564197/119229149-360af480-bb1f-11eb-9329-d6c35068d97b.png
+
+![javagame5](https://user-images.githubusercontent.com/60564197/119229149-360af480-bb1f-11eb-9329-d6c35068d97b.png)
 
 Na trzecim poziomie musisz wybrać zwierzę z najdłuższym językiem.
 
-https://user-images.githubusercontent.com/60564197/119229147-35725e00-bb1f-11eb-8d07-864d1e133d50.png
-https://user-images.githubusercontent.com/60564197/119229150-36a38b00-bb1f-11eb-9540-c2427f0b7185.png
+![javagame6](https://user-images.githubusercontent.com/60564197/119229147-35725e00-bb1f-11eb-8d07-864d1e133d50.png)
+![javagame7](https://user-images.githubusercontent.com/60564197/119229150-36a38b00-bb1f-11eb-9540-c2427f0b7185.png)
 
 Na czwartym poziomie musisz wybrać jadalny.
 
-
-
+![Screenshot_2](https://user-images.githubusercontent.com/60564197/119268498-f8c86480-bbfb-11eb-9465-e986fc7e46ea.png)
 
 Poprawna odpowiedź
 
-
-![levelfour](https://cdn1.savepice.ru/uploads/2021/1/12/8edc4e0b9859fefcc5ffc17aee4b25d4-full.png)
-
+![eat](https://user-images.githubusercontent.com/60564197/119268506-fc5beb80-bbfb-11eb-87e7-fbe6b4df3944.png)
 
 Niepoprawna odpowiedź
 
+![false](https://user-images.githubusercontent.com/60564197/119268504-fb2abe80-bbfb-11eb-96c4-344b5dd7d9d5.png)
 
-![levelfour](https://cdn1.savepice.ru/uploads/2021/1/12/fc02cae3d1bafa956565b04f930c1fbd-full.png)
 
