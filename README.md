@@ -7,36 +7,37 @@ Prace projektowe z przedmiota Zaawansowane projektowanie urządzeń mobilnych.
 
 Wykonana przez studenta grupy INiS5 Kostiantyn Chumak.
 
-Gra napisana w języku JAVA. 
-![start](https://cdn1.savepice.ru/uploads/2020/12/30/b06331fbfbe563f2d3c9b18c82641e4e-full.png)
+Gra quiz polega na porównaniu jednego przedmiotu z innym. 
+Tematy takie jak:
+- która liczba jest większa
+- która liczba rzymska jest większa
+- które zwierzę ma dłuższy język
 
+Gra napisana w języku JAVA na Androis Studio.
+https://user-images.githubusercontent.com/60564197/119229144-31464080-bb1f-11eb-9b6f-568d364c16bb.png
 Do wyboru jest trzydzieści poziomów, ale tylko cztery z nich są dostępne.
 
-![menu](https://cdn1.savepice.ru/uploads/2020/12/30/c16f53f6314fac59a84d9498d2f0227d-full.png)
+https://user-images.githubusercontent.com/60564197/119229145-34413100-bb1f-11eb-8770-fd89df8dd844.png
 
 Prawidłowy przycisk powrotu i wyjścia.
 
 Na pierwszym poziomie gry musisz wybrać wyższą liczbę, jeśli gracz odpowie poprawnie, to zdobędzie jeden punkt, co widać na pasku postępu. Jeśli gracz się pomyli, traci dwa punkty. Aby przejść na następny poziom, musisz zdobyć dwadzieścia punktów.
 
-![levelone](https://cdn1.savepice.ru/uploads/2020/12/30/e84036aacaa2650555c3a14f3caf8a93-full.png)
+https://user-images.githubusercontent.com/60564197/119229146-34d9c780-bb1f-11eb-9742-28471043dad0.png
 
-![levelonestart](https://cdn1.savepice.ru/uploads/2020/12/30/ff3547b69baacc025c6abd004cac2cc7-full.png)
+https://user-images.githubusercontent.com/60564197/119229148-35725e00-bb1f-11eb-9cad-251afdb75154.png
 
 Na drugim poziomie musisz wybrać dużą cyfrę rzymską.
-
-![startleveltwo](https://cdn1.savepice.ru/uploads/2020/12/30/8621a9b708d591a7794100bb14e23a44-full.png)
-![leveltwo](https://cdn1.savepice.ru/uploads/2020/12/30/c0825908c3e9e5be5309bf0e521dd6be-full.png)
+https://user-images.githubusercontent.com/60564197/119229149-360af480-bb1f-11eb-9329-d6c35068d97b.png
 
 Na trzecim poziomie musisz wybrać zwierzę z najdłuższym językiem.
 
-![startlevelthree](https://cdn1.savepice.ru/uploads/2020/12/30/f0fbe0c9a9568d171def3d751283244e-full.png)
-![levelthree](https://cdn1.savepice.ru/uploads/2020/12/30/16c752e561ebb282c0383541374f626b-full.png)
+https://user-images.githubusercontent.com/60564197/119229147-35725e00-bb1f-11eb-8d07-864d1e133d50.png
+https://user-images.githubusercontent.com/60564197/119229150-36a38b00-bb1f-11eb-9540-c2427f0b7185.png
 
 Na czwartym poziomie musisz wybrać jadalny.
 
-![startlevelfour](https://cdn1.savepice.ru/uploads/2020/12/30/6153aacfbd665962add9281ca4e029da-full.png)
 
-![levelfour](https://cdn1.savepice.ru/uploads/2020/12/30/fcfbe1e2912565d82103d2fb471df059-full.png)
 
 
 Poprawna odpowiedź
