@@ -37,11 +37,13 @@ Na trzecim poziomie musisz wybrać zwierzę z najdłuższym językiem.
 
 Na czwartym poziomie musisz wybrać jadalny.
 
+![eat](https://user-images.githubusercontent.com/60564197/119268506-fc5beb80-bbfb-11eb-87e7-fbe6b4df3944.png)
+
+
 ![Screenshot_2](https://user-images.githubusercontent.com/60564197/119268498-f8c86480-bbfb-11eb-9465-e986fc7e46ea.png)
 
 Poprawna odpowiedź
-
-![eat](https://user-images.githubusercontent.com/60564197/119268506-fc5beb80-bbfb-11eb-87e7-fbe6b4df3944.png)
+![true](https://user-images.githubusercontent.com/60564197/119268497-f6fea100-bbfb-11eb-949b-9e6e46aa08bc.png)
 
 Niepoprawna odpowiedź
 
