@@ -63,11 +63,17 @@ Aby otworzyć projekt, potrzebujesz:
 
 `<application
         android:allowBackup="true"
+        
         android:icon="@mipmap/ic_launcher"
+        
         android:label="@string/app_name"
+        
         android:roundIcon="@mipmap/ic_launcher_round"
+        
         android:supportsRtl="true"
+        
         android:theme="@style/Theme.AppCompat.NoActionBar">
+        
          </activity>`
 
 
@@ -87,10 +93,16 @@ Room for improvement:
 ## Acknowledgements
 Projekt powstał zrobiony dzięki lekcjom dr Dariusza Kralewskiego.
 
+
+
 ## Contact
  [![Telegram](https://img.shields.io/badge/-Telegram-1F022C?style=for-the-badge&logo=telegram&logoColor=35ACE4)](https://t.me/idudos)
+ 
+ 
 
-     [![LinkedIn](https://img.shields.io/badge/-LinkedIn-1F022C?style=for-the-badge&logo=linkedin&logoColor=35ACE4)](https://www.linkedin.com/in/kostiantyn-chumak-98097b1a7/)
+ [![LinkedIn](https://img.shields.io/badge/-LinkedIn-1F022C?style=for-the-badge&logo=linkedin&logoColor=35ACE4)](https://www.linkedin.com/in/kostiantyn-chumak-98097b1a7/)
+ 
+ 
 
    
     + E-mail: kostiantynchumak@gmail.com
