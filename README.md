@@ -23,7 +23,7 @@ Do wyboru jest trzydzieści poziomów, ale tylko cztery z nich są dostępne.
 
 
 
-![Tytuł](#L<10>)
+[Link to a heading in the page](#___Gra-quiz-polega-na-porównaniu-jednego-przedmiotu-z-innym.___ )
 
 ### Prawidłowy przycisk powrotu i wyjścia.
 ![Screenshot_1](https://user-images.githubusercontent.com/60564197/119268494-f49c4700-bbfb-11eb-96a1-d8aba36e8413.png)
