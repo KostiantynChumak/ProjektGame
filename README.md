@@ -7,7 +7,7 @@ Prace projektowe z przedmiota Zaawansowane projektowanie urządzeń mobilnych.
 
 Wykonana przez studenta grupy INiS5 Kostiantyn Chumak.
 
-# Gra quiz polega na porównaniu jednego przedmiotu z innym. 
+___Gra quiz polega na porównaniu jednego przedmiotu z innym.___ 
 Tematy takie jak:
 - która liczba jest większa
 - która liczba rzymska jest większa
@@ -18,7 +18,7 @@ Do wyboru jest trzydzieści poziomów, ale tylko cztery z nich są dostępne.
 
 ![javagame2](https://user-images.githubusercontent.com/60564197/119229145-34413100-bb1f-11eb-8770-fd89df8dd844.png)
 
-# Prawidłowy przycisk powrotu i wyjścia.
+### Prawidłowy przycisk powrotu i wyjścia.
 ![Screenshot_1](https://user-images.githubusercontent.com/60564197/119268494-f49c4700-bbfb-11eb-96a1-d8aba36e8413.png)
 
 
