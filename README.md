@@ -5,6 +5,9 @@
 Prace projektowe z przedmiota Zaawansowane projektowanie urządzeń mobilnych.
 
 
+
+###Link to a heading in the page
+
 Wykonana przez studenta grupy INiS5 Kostiantyn Chumak.
 
 ___Gra quiz polega na porównaniu jednego przedmiotu z innym.___ 
@@ -23,7 +26,7 @@ Do wyboru jest trzydzieści poziomów, ale tylko cztery z nich są dostępne.
 
 
 
-[Link to a heading in the page](#___Gra-quiz-polega-na-porównaniu-jednego-przedmiotu-z-innym.___ )
+[Link to a heading in the page](#link-to-a-heading-in-the-page)
 
 ### Prawidłowy przycisk powrotu i wyjścia.
 ![Screenshot_1](https://user-images.githubusercontent.com/60564197/119268494-f49c4700-bbfb-11eb-96a1-d8aba36e8413.png)
