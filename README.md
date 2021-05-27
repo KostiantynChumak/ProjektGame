@@ -23,7 +23,7 @@ Do wyboru jest trzydzieści poziomów, ale tylko cztery z nich są dostępne.
 
 
 
-![Tytuł](https://github.com/KostiantynChumak/ProjektGame/blame/6ae4594ae400fbe9df59198b41e8e1e951b26898/README.md)
+![Tytuł](#L<10>)
 
 ### Prawidłowy przycisk powrotu i wyjścia.
 ![Screenshot_1](https://user-images.githubusercontent.com/60564197/119268494-f49c4700-bbfb-11eb-96a1-d8aba36e8413.png)
