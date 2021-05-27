@@ -1,7 +1,7 @@
 
-# Project Name
-> Outline a brief description of your project.
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+# Gra quiz
+
+
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -61,7 +61,8 @@ Aby otworzyć projekt, potrzebujesz:
 
 ## Usage
 
-`<application
+`       <application
+
         android:allowBackup="true"
         
         android:icon="@mipmap/ic_launcher"
