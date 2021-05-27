@@ -51,43 +51,50 @@ List the ready features here:
 ## Setup
 
 Aby otworzyć projekt, potrzebujesz:
-- pobierz sam projekt z 
+- Pobierz sam projekt z Github
+- Otwórz pobrany projekt za pomocą Android Studio
+- Wybierz telefon do uruchomienia 
+- Wybierz plik Main do uruchomienia 
 
 
 
 
 ## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
 
-`write-your-code-here`
+`<application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.NoActionBar">
+         </activity>`
 
 
 ## Project Status
-Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
-
+__Projekt zakończony.
+Jestem zaangażowany w następujące projekty.__
 
 ## Room for Improvement
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
 
 Room for improvement:
-- Improvement to be done 1
-- Improvement to be done 2
+- Poprawić jakość zdjęć
+- Dodać liczbę poziomów
 
-To do:
-- Feature to be added 1
-- Feature to be added 2
+
 
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
-
+Projekt powstał zrobiony dzięki lekcjom dr Dariusza Kralewskiego.
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+ [![Telegram](https://img.shields.io/badge/-Telegram-1F022C?style=for-the-badge&logo=telegram&logoColor=35ACE4)](https://t.me/idudos)
+
+     [![LinkedIn](https://img.shields.io/badge/-LinkedIn-1F022C?style=for-the-badge&logo=linkedin&logoColor=35ACE4)](https://www.linkedin.com/in/kostiantyn-chumak-98097b1a7/)
+
+   
+    + E-mail: kostiantynchumak@gmail.com
+
 
 
 <!-- Optional -->
