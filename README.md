@@ -1,64 +1,91 @@
 
-# Gra
+# Project Name
+> Outline a brief description of your project.
+> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+
+## Table of Contents
+* [General Info](#general-information)
+* [Technologies Used](#technologies-used)
+* [Features](#features)
+* [Screenshots](#screenshots)
+* [Setup](#setup)
+* [Usage](#usage)
+* [Project Status](#project-status)
+* [Room for Improvement](#room-for-improvement)
+* [Acknowledgements](#acknowledgements)
+* [Contact](#contact)
+<!-- * [License](#license) -->
 
 
-Prace projektowe z przedmiota Zaawansowane projektowanie urządzeń mobilnych.
+## General Information
+- Provide general information about your project here.
+- What problem does it (intend to) solve?
+- What is the purpose of your project?
+- Why did you undertake it?
+<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
-
-###Link to a heading in the page
-
-Wykonana przez studenta grupy INiS5 Kostiantyn Chumak.
-
-___Gra quiz polega na porównaniu jednego przedmiotu z innym.___ 
+## Technologies Used
+- Tech 1 - version 1.0
+- Tech 2 - version 2.0
+- Tech 3 - version 3.0
 
 
-Tematy takie jak:
-- która liczba jest większa
-- która liczba rzymska jest większa
-- które zwierzę ma dłuższy język
-
-Gra napisana w języku JAVA na Androis Studio.
-Do wyboru jest trzydzieści poziomów, ale tylko cztery z nich są dostępne.
-
-![javagame2](https://user-images.githubusercontent.com/60564197/119229145-34413100-bb1f-11eb-8770-fd89df8dd844.png)
+## Features
+List the ready features here:
+- Awesome feature 1
+- Awesome feature 2
+- Awesome feature 3
 
 
+## Screenshots
+![Example screenshot](./img/screenshot.png)
+<!-- If you have screenshots you'd like to share, include them here. -->
 
 
-[Link to a heading in the page](#link-to-a-heading-in-the-page)
+## Setup
+What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
 
-### Prawidłowy przycisk powrotu i wyjścia.
-![Screenshot_1](https://user-images.githubusercontent.com/60564197/119268494-f49c4700-bbfb-11eb-96a1-d8aba36e8413.png)
-
-
-### Na pierwszym poziomie gry musisz wybrać wyższą liczbę, jeśli gracz odpowie poprawnie, to zdobędzie jeden punkt, co widać na pasku postępu. Jeśli gracz się pomyli, traci dwa punkty. Aby przejść na następny poziom, musisz zdobyć dwadzieścia punktów.
-
-![javagame4](https://user-images.githubusercontent.com/60564197/119229148-35725e00-bb1f-11eb-9cad-251afdb75154.png)
-
-### Na drugim poziomie musisz wybrać dużą cyfrę rzymską.
-
-![javagame5](https://user-images.githubusercontent.com/60564197/119229149-360af480-bb1f-11eb-9329-d6c35068d97b.png)
-
-# Na trzecim poziomie musisz wybrać zwierzę z najdłuższym językiem.
-
-![javagame6](https://user-images.githubusercontent.com/60564197/119229147-35725e00-bb1f-11eb-8d07-864d1e133d50.png)
-![javagame7](https://user-images.githubusercontent.com/60564197/119229150-36a38b00-bb1f-11eb-9540-c2427f0b7185.png)
-
-# Na czwartym poziomie musisz wybrać jadalny.
-
-![eat](https://user-images.githubusercontent.com/60564197/119268506-fc5beb80-bbfb-11eb-87e7-fbe6b4df3944.png)
+Proceed to describe how to install / setup one's local environment / get started with the project.
 
 
-![Screenshot_2](https://user-images.githubusercontent.com/60564197/119268498-f8c86480-bbfb-11eb-9465-e986fc7e46ea.png)
+## Usage
+How does one go about using it?
+Provide various use cases and code examples here.
 
-# Poprawna odpowiedź
+`write-your-code-here`
 
 
-![true](https://user-images.githubusercontent.com/60564197/119268497-f6fea100-bbfb-11eb-949b-9e6e46aa08bc.png)
+## Project Status
+Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
 
-# Niepoprawna odpowiedź
 
-![false](https://user-images.githubusercontent.com/60564197/119268504-fb2abe80-bbfb-11eb-96c4-344b5dd7d9d5.png)
+## Room for Improvement
+Include areas you believe need improvement / could be improved. Also add TODOs for future development.
 
+Room for improvement:
+- Improvement to be done 1
+- Improvement to be done 2
+
+To do:
+- Feature to be added 1
+- Feature to be added 2
+
+
+## Acknowledgements
+Give credit here.
+- This project was inspired by...
+- This project was based on [this tutorial](https://www.example.com).
+- Many thanks to...
+
+
+## Contact
+Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+
+
+<!-- Optional -->
+<!-- ## License -->
+<!-- This project is open source and available under the [... License](). -->
+
+<!-- You don't have to include all sections - just the one's relevant to your project -->
 
