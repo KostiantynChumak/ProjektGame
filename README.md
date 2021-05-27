@@ -8,6 +8,8 @@ Prace projektowe z przedmiota Zaawansowane projektowanie urządzeń mobilnych.
 Wykonana przez studenta grupy INiS5 Kostiantyn Chumak.
 
 ___Gra quiz polega na porównaniu jednego przedmiotu z innym.___ 
+
+
 Tematy takie jak:
 - która liczba jest większa
 - która liczba rzymska jest większa
@@ -18,15 +20,20 @@ Do wyboru jest trzydzieści poziomów, ale tylko cztery z nich są dostępne.
 
 ![javagame2](https://user-images.githubusercontent.com/60564197/119229145-34413100-bb1f-11eb-8770-fd89df8dd844.png)
 
+
+
+
+![Tytuł](github.com/KostiantynChumak/ProjektGame/edit/master/README.mdL10)
+
 ### Prawidłowy przycisk powrotu i wyjścia.
 ![Screenshot_1](https://user-images.githubusercontent.com/60564197/119268494-f49c4700-bbfb-11eb-96a1-d8aba36e8413.png)
 
 
-# Na pierwszym poziomie gry musisz wybrać wyższą liczbę, jeśli gracz odpowie poprawnie, to zdobędzie jeden punkt, co widać na pasku postępu. Jeśli gracz się pomyli, traci dwa punkty. Aby przejść na następny poziom, musisz zdobyć dwadzieścia punktów.
+### Na pierwszym poziomie gry musisz wybrać wyższą liczbę, jeśli gracz odpowie poprawnie, to zdobędzie jeden punkt, co widać na pasku postępu. Jeśli gracz się pomyli, traci dwa punkty. Aby przejść na następny poziom, musisz zdobyć dwadzieścia punktów.
 
 ![javagame4](https://user-images.githubusercontent.com/60564197/119229148-35725e00-bb1f-11eb-9cad-251afdb75154.png)
 
-# Na drugim poziomie musisz wybrać dużą cyfrę rzymską.
+### Na drugim poziomie musisz wybrać dużą cyfrę rzymską.
 
 ![javagame5](https://user-images.githubusercontent.com/60564197/119229149-360af480-bb1f-11eb-9329-d6c35068d97b.png)
 
