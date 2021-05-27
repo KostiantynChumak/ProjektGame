@@ -18,35 +18,42 @@
 
 
 ## General Information
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
+- Gra quiz polega na porównaniu jednego przedmiotu z innym.
+- Wdoskonalenie umiejętności programowania gier 
+- Podobał mi się temat takich gier i chciałem zrobić coś własnego 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
+- Android Studio
+- Java
 
 
 ## Features
 List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
+- Zapisz postęp w grze 
+- Na kolejny poziom możesz przejść dopiero po przejściu poprzedniego 
+- Możliwość wyjścia z gry za pomocą przycisku Wstecz 
 
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![javagame2](https://user-images.githubusercontent.com/60564197/119229145-34413100-bb1f-11eb-8770-fd89df8dd844.png)
+
+
+![javagame4](https://user-images.githubusercontent.com/60564197/119229148-35725e00-bb1f-11eb-9cad-251afdb75154.png)
+
+
+
+![true](https://user-images.githubusercontent.com/60564197/119268497-f6fea100-bbfb-11eb-949b-9e6e46aa08bc.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
 ## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
 
-Proceed to describe how to install / setup one's local environment / get started with the project.
+Aby otworzyć projekt, potrzebujesz:
+- pobierz sam projekt z 
+
+
 
 
 ## Usage
