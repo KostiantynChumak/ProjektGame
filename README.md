@@ -23,7 +23,7 @@ Do wyboru jest trzydzieści poziomów, ale tylko cztery z nich są dostępne.
 
 
 
-![Tytuł](github.com/KostiantynChumak/ProjektGame/edit/master/README.mdL10)
+![Tytuł](https://github.com/KostiantynChumak/ProjektGame/edit/master/README#L10)
 
 ### Prawidłowy przycisk powrotu i wyjścia.
 ![Screenshot_1](https://user-images.githubusercontent.com/60564197/119268494-f49c4700-bbfb-11eb-96a1-d8aba36e8413.png)
