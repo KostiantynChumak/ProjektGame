@@ -61,7 +61,7 @@ Aby otworzyć projekt, potrzebujesz:
 
 ## Usage
 
-`       <application
+        <application
 
         android:allowBackup="true"
         
@@ -75,7 +75,7 @@ Aby otworzyć projekt, potrzebujesz:
         
         android:theme="@style/Theme.AppCompat.NoActionBar">
         
-         </activity>`
+         </activity>
 
 
 ## Project Status
