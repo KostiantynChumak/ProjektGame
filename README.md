@@ -106,7 +106,7 @@ Projekt powstał zrobiony dzięki lekcjom dr Dariusza Kralewskiego.
  
 
    
-    + E-mail: kostiantynchumak@gmail.com
+E-mail: kostiantynchumak@gmail.com
 
 
 
